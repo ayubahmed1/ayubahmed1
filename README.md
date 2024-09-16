@@ -10,3 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can speak three languages...not including programming languages... ;)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vb5q3gvvx2fjmem5qd2kccmh44&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
